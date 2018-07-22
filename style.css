@@ -1,0 +1,59 @@
+*{
+    padding:0;
+    margin:0;
+}
+img{
+    border:none;
+}
+.karkas{
+    width:1920px;
+    margin:0 auto;
+}
+header{
+    width:100%;
+    /*position: absolute;*/
+    background-color: #5276ac;
+}
+.menu{
+    list-style: none;
+    font: bold 36px Monsterrat ;
+    margin: 0px;
+    padding: 20px 0px;
+    /*overflow: hidden;*/
+    text-align: center;
+}
+.menu li{
+    /*margin-right: 15px;*/
+    /*margin-left: 15px;*/
+    /*padding: 8px 25px;*/
+    list-style: none;
+    display: inline;
+}
+.menu li a{
+    color:#ffffff;
+    text-decoration: none;
+}
+.menu li a:hover{
+    text-decoration: underline;
+    color:#5d8adc;
+}
+.about_us{
+    max-width: 1800px;
+    background-color: #4a76a8;
+}
+.logo_iPhone img{
+    position: relative;
+}
+.about_us_left{
+    float:left;
+}
+.iPhone{
+    left: -670px; top: 110px;
+}
+.OR_Logo{
+    display:inline;
+}
+.about_us_center img{
+    display:inline;
+
+}
